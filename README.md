@@ -1,7 +1,21 @@
 # 💫 About Me:
-I am a Software Engineer with over 10 years of experience, specializing in building enterprise applications using .NET technologies, including Blazor, MVC, and Azure Cloud.<br><br>I am passionate about exploring new technologies and continuously enhancing my skill set. <br>🛠 I have worked on: Enterprise-grade .NET applications, leveraging Blazor, .NET MAUI, and Azure Cloud services for scalable and efficient solutions.<br><br>🤝 I have collaborated on: Open-source .NET projects, AI-driven applications using OpenAI and Ollama APIs, and cloud-based architectures.<br><br>🌿 I have experience with: Advanced AI model integration, optimizing cloud infrastructure, and implementing robust enterprise applications.<br><br>🌱 I am currently learning: TypeScript, Deno, Bun, Next.js, Hono.js, and advanced Azure DevOps to enhance my development capabilities.<br><br>💬 Ask me about: Blazor, .NET MAUI, DevExpress, Google Extensions, and Azure Cloud architecture.<br><br>⚡ Fun fact: I have a deep appreciation for ThinkPad laptops, love optimizing software for performance, and enjoy exploring AI-driven development.
+I’m a Software Engineer with 10+ years of experience, specializing in .NET technologies like Blazor, ASP.NET MVC, and Azure Cloud. I build scalable, efficient, and innovative enterprise applications.
 
+🛠 What I Do:
+Develop enterprise-grade apps using .NET, Blazor, .NET MAUI, and Azure.
 
+Build AI-driven solutions with OpenAI and Ollama APIs.
+
+Create Google Extensions for productivity and workflow optimization.
+
+🌱 Currently Learning:
+TypeScript, Deno, Bun, Next.js, Hono.js, and advanced Azure DevOps.
+
+💬 Ask Me About:
+Blazor, .NET MAUI, DevExpress, Google Extensions, and Azure Cloud.
+
+⚡ Fun Fact:
+I have a deep appreciation for ThinkPad laptops—their durability and performance make them my go-to choice for development! My very first laptop was a ThinkPad X230, and it’s still running strong today (though it’s mostly retired now). I’m convinced that ThinkPads are the "Swiss Army knives" of laptops: they can survive anything, from coffee spills to coding marathons, and still ask for more. 🖥️💪
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/moeez-a-b8046a106) 
 
