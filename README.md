@@ -9,7 +9,7 @@ Build AI-driven solutions with OpenAI and Ollama APIs.
 Create Google Extensions for productivity and workflow optimization.
 
 🌱 Currently Learning:
-TypeScript, Deno, Bun, Next.js, Hono.js, and advanced Azure DevOps.
+TypeScript, Deno.js, Bun.js, Next.js, Hono.js, and advanced Azure DevOps.
 
 💬 Ask Me About:
 Blazor, .NET MAUI, DevExpress, Google Extensions, and Azure Cloud.
